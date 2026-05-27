@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvelete",
+        "uuid": 16305927,
+        "checksum": "uq08ma"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
